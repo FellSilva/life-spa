@@ -25,7 +25,7 @@
 
         h3 {
             font-size: $tamanho-do-texto /1.5;
-            font-weight: 400;
+            font-weight: 300;
             color: $cor-primaria;
             margin-bottom: 2rem;
         }
@@ -34,15 +34,20 @@
 
     h4 {
         font-size: $tamanho-do-texto / 2.5;
-        font-weight: 400;
+        font-weight: 300;
         color: $cor-terciaria;
         margin-bottom: 2rem;
+        word-spacing: 5px;
+        line-height: 1.5rem;
 
     }
 
     p {
         font-size: $tamanho-do-texto /3;
         color: $cor-terciaria;
+        font-weight: 300;
+        word-spacing: 5px;
+        line-height: 1.5rem;
     }
 
 

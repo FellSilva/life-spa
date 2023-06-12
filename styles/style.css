@@ -13,10 +13,10 @@ nav ul li a {
   text-transform: uppercase;
   text-decoration: none;
   font-weight: bold;
-  color: #4C4C6D;
+  color: #1B9C85;
 }
 nav ul li a:hover {
-  border-bottom: 2px solid #E8F6EF;
+  border-bottom: 2px solid #4C4C6D;
 }
 
 .banner {
@@ -30,19 +30,22 @@ nav ul li a:hover {
 }
 .banner .inner-banner {
   padding: 3rem;
-  background-color: #1B9C85;
+  background-color: #4C4C6D;
   opacity: 0.9;
   border-radius: 45px;
 }
 .banner .inner-banner h1 {
-  font-size: 3rem;
-  color: #4C4C6D;
+  font-size: 4rem;
+  color: #1B9C85;
   text-align: center;
   padding: 0.5rem;
+  font-family: "Dancing Script", cursive;
+  font-weight: bold;
 }
 .banner .inner-banner h2 {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   color: #E8F6EF;
+  font-weight: 300;
 }
 
 #servicos {
@@ -50,7 +53,7 @@ nav ul li a:hover {
 }
 #servicos h3 {
   font-size: 1.2rem;
-  color: #1B9C85;
+  color: #4C4C6D;
   text-transform: uppercase;
   font-weight: 400;
   text-align: center;
@@ -61,7 +64,7 @@ nav ul li a:hover {
   font-size: 2.5rem;
   margin-bottom: 80px;
   font-weight: 300;
-  color: #4C4C6D;
+  color: #1B9C85;
 }
 #servicos .cards {
   display: flex;
@@ -76,13 +79,14 @@ nav ul li a:hover {
   font-weight: 300;
   margin-top: 25px;
   margin-bottom: 20px;
-  color: #4C4C6D;
+  color: #1B9C85;
 }
 #servicos .cards .card p {
   font-size: 1rem;
   font-weight: 300;
-  color: #1B9C85;
+  color: #4C4C6D;
   line-height: 1.5rem;
+  word-spacing: 5px;
 }
 #servicos .cards .card .img-container {
   padding-bottom: 2px;
@@ -93,7 +97,7 @@ nav ul li a:hover {
 }
 
 #cupom {
-  background-color: #1B9C85;
+  background-color: #4C4C6D;
   padding: 4rem;
   text-align: center;
 }
@@ -121,7 +125,7 @@ nav ul li a:hover {
   font-size: 26px;
 }
 #cupom .input:hover, #cupom .input:focus-within {
-  box-shadow: 1px 1px 8px 1px #4C4C6D;
+  box-shadow: 1px 1px 8px 1px #1B9C85;
   outline: none;
 }
 #cupom button {
@@ -132,28 +136,28 @@ nav ul li a:hover {
   text-align: center;
   width: 130px;
   background-color: #E8F6EF;
-  color: #1B9C85;
+  color: #4C4C6D;
   letter-spacing: 1px;
   font-size: 12px;
   font-weight: bold;
   cursor: pointer;
-  border: 2px #4C4C6D;
+  border: 2px #1B9C85;
   border-radius: 40px;
 }
 #cupom button:hover {
-  color: #1B9C85;
-  background-color: #4C4C6D;
+  color: #4C4C6D;
+  background-color: #1B9C85;
   border-color: #E8F6EF;
 }
 
 footer {
   text-align: center;
   font-size: 1rem;
-  border-top: 2px solid #4C4C6D;
+  border-top: 2px solid #1B9C85;
   margin-top: 1rem;
   padding: 1.2em;
-  background: #1B9C85;
-  color: #4C4C6D;
+  background: #4C4C6D;
+  color: #1B9C85;
 }
 
 .end-card {
@@ -167,7 +171,7 @@ footer {
 }
 .end-card .end-card-img img {
   max-width: 100%;
-  border-right: 2px solid #1B9C85;
+  border-right: 2px solid #4C4C6D;
   opacity: 0.9;
 }
 .end-card .end-card-inner {
@@ -176,17 +180,22 @@ footer {
 }
 .end-card .end-card-inner h3 {
   font-size: 2rem;
-  font-weight: 400;
-  color: #4C4C6D;
+  font-weight: 300;
+  color: #1B9C85;
   margin-bottom: 2rem;
 }
 .end-card h4 {
   font-size: 1.2rem;
-  font-weight: 400;
-  color: #1B9C85;
+  font-weight: 300;
+  color: #4C4C6D;
   margin-bottom: 2rem;
+  word-spacing: 5px;
+  line-height: 1.5rem;
 }
 .end-card p {
   font-size: 1rem;
-  color: #1B9C85;
+  color: #4C4C6D;
+  font-weight: 300;
+  word-spacing: 5px;
+  line-height: 1.5rem;
 }/*# sourceMappingURL=style.css.map */
