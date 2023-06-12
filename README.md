@@ -28,4 +28,4 @@ Sinta-se à vontade para contribuir para este projeto. Se você tiver alguma sug
 
 Este projeto é licenciado sob a [MIT License](LICENSE). Sinta-se livre para usá-lo e modificá-lo de acordo com suas necessidades.
 
-E
+
